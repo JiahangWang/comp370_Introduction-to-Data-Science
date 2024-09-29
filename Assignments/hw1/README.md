@@ -1,0 +1,1 @@
+* In all the data, there are approximately 23 instances where the 'content' completely overlaps. Among the rows labeled 'T' in the 'trump_mention' column, there are about 9 instances where the 'content' completely overlaps. Additionally, in other rows, there is partial overlap of the 'content' of some tweets. All of these duplicates contribute to the repeated counting of tweets.
